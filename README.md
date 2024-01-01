@@ -5,5 +5,5 @@
 
 
 ##### Mundo java
-![Java stack](https://github.com/lelodois/profissoes-ti/blob/master/java-stack.png)
+![Java stack](https://github.com/lelodois/profissoes-ti/blob/master/java-stack.jpg)
 
